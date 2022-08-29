@@ -1,5 +1,5 @@
 # What this code does:
-# Write a simple linear equation that only include the '+' and '-' symbols and the unkown varibale is x.
+# Write a simple linear equation that only includes the '+' and '-' symbols, and the unknown varibale is x.
 # This code will solve for x 
 
 class Solve:
